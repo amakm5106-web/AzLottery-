@@ -1,0 +1,6 @@
+{
+  "name": "AzLottery Real Working MMK",
+  "description": "AzLottery - တရားဝင် မြန်မာကျပ်ငွေ (MMK) ဖြင့် တိုက်ရိုက်ကစားနိုင်သော ထီ၊ WinGo နှင့် ကံစမ်းဘီး ဂိမ်းပလက်ဖောင်း။ KBZPay, WavePay, AYA Pay အပြည့်အစုံ ပါဝင်သည်။",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
